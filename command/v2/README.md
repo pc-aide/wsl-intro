@@ -3,4 +3,4 @@
 ## List
 |n|name|desc.|eg|O/P|
 |-|----|-----|--|---|
-|1|list instances|wsl -l|
+|1|list your instances|wsl -l|
